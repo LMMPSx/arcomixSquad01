@@ -49,9 +49,11 @@ O sistema desenvolvido oferece:
 
 ## 👥 Autores
 
-- Bianca Guimarães -Gerenciamento do Projeto, Documentação & teste 
+- Bianca Guimarães -Gestão de Projetos e Product Owner 
+- Andrew Kauê - Gestão de Projetos e Scrum Master
 - Cayo Luiz - Design UI/UX  
-- Victor Torres - Design UI/UX  
+- Victor Torres - Design UI/UX
+- Luiz Miguel - Coding Leader
 
 
 ---
